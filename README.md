@@ -5,8 +5,8 @@
 ### Live Deployment & Interactive Interface
 To experience the clinical dashboard in real-time, access the hosted instances below:
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://cardiovascular-disease-dss1.streamlit.app/)
-> **Web URL:** https://cardiovascular-disease-dss1.streamlit.app/
+[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://cardio-diseases.streamlit.app/)
+> **Web URL:** https://cardio-diseases.streamlit.app/
 
 ---
 
