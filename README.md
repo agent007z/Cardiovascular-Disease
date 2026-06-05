@@ -229,6 +229,7 @@ This document presents the detailed, step-by-step mathematical and architectural
 
   ### 🌐 Cross-Dataset External Generalizability & Reliability Validation
   Mendely Data Best model: AutoInt -> Accuracy = **0.9833**
+  
   Kaggle Best model: AutoInt -> Accuracy = **0.9533**
 
 ---
