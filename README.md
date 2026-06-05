@@ -144,9 +144,9 @@ This document presents the detailed, step-by-step mathematical and architectural
 | Target Class (CVD Risk Level) | Numerical Label | Before SMOTE (Raw Count) | After SMOTE (Resampled Count) | Sampling Delta (%) |
 | :--- | :---: | :---: | :---: | :---: |
 | **LOW** | `0` | 220 | 2,000 | +809.09% |
-| **INTERMEDIARY** | `1` | 579 | 2,000 | +245.42% |
-| **HIGH** | `2` | 727 | 2,000 | +175.10% |
-| **Total Dataset Size** | — | **1,526** | **6,000** | **+293.18%** |
+| **INTERMEDIARY** | `1` | 581 | 2,000 | +244.23% |
+| **HIGH** | `2` | 728 | 2,000 | +174.73% |
+| **Total Dataset Size** | — | **1,529** | **6,000** | **+292.41%** |
 
 
 * **Step 4: Baseline Traditional Machine Learning Execution:** Train baseline configurations of **XGBoost, CatBoost, Random Forest, KNN, and Gradient Boosting** models, evaluating their performance via *Accuracy, Precision, Recall, and F1-Score*.
