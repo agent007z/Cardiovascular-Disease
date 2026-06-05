@@ -1,4 +1,4 @@
-# A Responsible AI Framework for Cardiovascular Disease Risk Assessment with Clinical Decision Support
+# Cardiovascular Disease
 
 ---
 
@@ -228,19 +228,8 @@ This document presents the detailed, step-by-step mathematical and architectural
 * **Step 13: External Generalizability & Reliability Cross-Validation:** Validate the final optimized models against **two completely unseen external datasets**—one retrieved from **Mendeley Data** and another from **Kaggle**—to benchmark real-world reliability.
 
   ### 🌐 Cross-Dataset External Generalizability & Reliability Validation
-
-| Model Name | Mendeley Accuracy | Mendeley Precision | Mendeley Recall | Mendeley F1 | Kaggle Accuracy | Kaggle Precision | Kaggle Recall | Kaggle F1 |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **AutoInt** | **0.9833** | **0.9834** | **0.9833** | **0.9833** | **0.9533** | **0.9534** | **0.9533** | **0.9533** |
-| **TabNet** | 0.9830 | 0.9834 | 0.9831 | 0.9831 | 0.9430 | 0.9444 | 0.9441 | 0.9431 |
-| **FT-Transformer** | 0.9778 | 0.9781 | 0.9778 | 0.9778 | 0.9378 | 0.9381 | 0.9378 | 0.9378 |
-| **ANN** | 0.9778 | 0.9778 | 0.9778 | 0.9778 | 0.9278 | 0.9278 | 0.9278 | 0.9278 |
-| **1D CNN** | 0.9722 | 0.9730 | 0.9722 | 0.9722 | 0.9222 | 0.9230 | 0.9222 | 0.9222 |
-| **Gradient Boosting** | 0.9444 | 0.9448 | 0.9444 | 0.9444 | 0.7654 | 0.7655 | 0.7654 | 0.7654 |
-| **XGBoost** | 0.9333 | 0.9345 | 0.9333 | 0.9333 | 0.7914 | 0.7917 | 0.7914 | 0.7914 |
-| **CatBoost** | 0.9222 | 0.9248 | 0.9222 | 0.9220 | 0.7938 | 0.7942 | 0.7938 | 0.7938 |
-| **Random Forest** | 0.9111 | 0.9111 | 0.9111 | 0.9111 | 0.8907 | 0.8907 | 0.8907 | 0.8907 |
-| **KNN** | 0.8889 | 0.8902 | 0.8889 | 0.8874 | 0.9337 | 0.9338 | 0.9337 | 0.9337 |
+  Mendely Data Best model: AutoInt -> Accuracy = **0.9833**
+  Kaggle Best model: AutoInt -> Accuracy = **0.9533**
 
 ---
 
