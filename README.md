@@ -14,7 +14,7 @@ To experience the clinical dashboard in real-time, access the hosted instances b
 
 The robustness of this pipeline is validated against multiple independent cohorts. You can access the foundational data sources directly:
 
-* **Primary Dataset:** [![Mendeley Data](https://img.shields.io/badge/Mendeley_Data-F7422B?style=flat-square&logo=Mendeley&logoColor=white)](https://data.mendeley.com/datasets/d9scg7j8fp/1) — [Cohort Dataset 1 (Mendeley)](https://data.mendeley.com/datasets/d9scg7j8fp/1)
+* **Main Dataset:** [![Mendeley Data](https://img.shields.io/badge/Mendeley_Data-F7422B?style=flat-square&logo=Mendeley&logoColor=white)](https://data.mendeley.com/datasets/d9scg7j8fp/1) — [Cohort Dataset 1 (Mendeley)](https://data.mendeley.com/datasets/d9scg7j8fp/1)
 
 * **External Cross-Validation dataset (Cohort 1):** [![Mendeley Data](https://img.shields.io/badge/Mendeley_Data-F7422B?style=flat-square&logo=Mendeley&logoColor=white)](https://data.mendeley.com/datasets/vhgyn5yk4g/1) — [Secondary Dataset 1 (Mendeley)](https://data.mendeley.com/datasets/vhgyn5yk4g/1)
 
