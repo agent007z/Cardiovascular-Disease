@@ -167,13 +167,13 @@ This document presents the detailed, step-by-step mathematical and architectural
 
 ### 🎯 Bayesian Hyperparameter Optimization & Post-Tuning Performance Matrix
 
-| Model Name | Optimized Hyperparameters | Accuracy | Precision | Recall | F1-Score |
+| Model Name  | Accuracy | Precision | Recall | F1-Score |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **KNN** | `n_neighbors=3`, `weights='distance'`, `metric='manhattan'` | **0.9575** | **0.9575** | **0.9575** | **0.9573** |
-| **CatBoost** | `iterations=489`, `depth=10`, `learning_rate=0.2936` | 0.9483 | 0.9483 | 0.9483 | 0.9482 |
-| **Gradient Boosting** | `n_estimators=220`, `learning_rate=0.2592`, `max_depth=10` | 0.9392 | 0.9395 | 0.9392 | 0.9392 |
-| **XGBoost** | `n_estimators=495`, `max_depth=10`, `learning_rate=0.1756`, `subsample=0.7624`, `colsample_bytree=0.9336` | 0.9292 | 0.9292 | 0.9292 | 0.9291 |
-| **Random Forest** | `n_estimators=194`, `max_depth=19`, `min_samples_split=4`, `min_samples_leaf=1` | 0.9092 | 0.9093 | 0.9092 | 0.9089 |
+| **KNN**  | **0.9575** | **0.9575** | **0.9575** | **0.9573** |
+| **CatBoost**  | 0.9483 | 0.9483 | 0.9483 | 0.9482 |
+| **Gradient Boosting**  | 0.9392 | 0.9395 | 0.9392 | 0.9392 |
+| **XGBoost**  | 0.9292 | 0.9292 | 0.9292 | 0.9291 |
+| **Random Forest** | 0.9092 | 0.9093 | 0.9092 | 0.9089 |
 
 
 * **Step 6: Advanced Deep Learning Pipeline for Tabular Data:** Construct and execute state-of-the-art tabular deep learning architectures including **AutoInt, ANN, CNN, FT-Transformer, and TabNet**. Evaluate their performance utilizing the same standard matrix (*Accuracy, Precision, Recall, F1-Score*).
